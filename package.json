@@ -1,0 +1,28 @@
+{
+  "name": "excel-nodejs",
+  "version": "1.0.0",
+  "description": "Import & export the excel using NodeJS application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scriptclump/excel-nodejs.git"
+  },
+  "keywords": [
+    "Export",
+    "&",
+    "import",
+    "excel",
+    "File",
+    "Handeling",
+    "NodeJS"
+  ],
+  "author": "Basant Kumar Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scriptclump/excel-nodejs/issues"
+  },
+  "homepage": "https://github.com/scriptclump/excel-nodejs#readme"
+}
